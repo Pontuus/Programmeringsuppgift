@@ -1,3 +1,31 @@
+
+- "name": "my-app",
+- "version": "0.1.0",
+- "private": true,
+- "dependencies": {
+- "@testing-library/jest-dom": "^5.15.0",
+- "@testing-library/react": "^11.2.7",
+- "@testing-library/user-event": "^12.8.3",
+- "react": "^17.0.2",
+- "react-dom": "^17.0.2",
+- "react-router-dom": "^5.1.2",
+- "react-scripts": "4.0.3",
+- "web-vitals": "^1.1.2"
+
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+    
+Använder mig även av "nanoid" för ID.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
